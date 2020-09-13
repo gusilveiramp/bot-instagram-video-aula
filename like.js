@@ -10,7 +10,7 @@ function doLike() {
       counter++;
   }
   next.click();
-  console.log(`Você já curtiu ${counter} post(s)!`);
+  console.log(`Curtiu ${counter} post(s)!`);
 }
 
 
